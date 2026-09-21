@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885fc7c40d916a547be5296fdfe9cd01, type: 3}
+  m_Name: computer_left
+  m_EditorClassIdentifier: Assembly-CSharp::interactable
+  type: computer
+  is_locked: 0
+  prompt: Computer successfully hacked!
+  door: {fileID: 6724318927571720435, guid: ffb7b9848311743409a0ad9c9166f486, type: 3}
